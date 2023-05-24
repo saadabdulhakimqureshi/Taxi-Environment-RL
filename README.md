@@ -7,7 +7,7 @@ The algorithms are implemented in the Taxi Environment with 600 states and 6 pos
 Course: CS 352: Reinforcement Learning
 
 ## Report
-Please see the report for detailed analysis of the algorithms.
+Please see the report for detailed analysis of the algorithms and description of the code.
 
 ## Implementation
 
